@@ -1,0 +1,144 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://4.bp.blogspot.com/-GVbSEcMHHyg/U6LEeRgphzI/AAAAAAAALZc/-_Iz6Z6oVJU/s1921/tokyo-ghoul-kaneki-ken-mask-hd-1920x1080.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.Karajumbotron{
+  background-image:url('http://images.iskans.com/data/original/23e524f30ca3ef2f0cfcc510176cc9bf63458a1e.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Karajumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.Karajumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.MPjumbotron{
+  background-image:url('http://images6.fanpop.com/image/photos/35100000/Mawaru-Penguimdrum-mawaru-penguindrum-35115693-2560-1600.jpg'); 
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.MPjumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.MPjumbotron h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+.MPjumbotron p {
+  font-size: 20px;
+  color: black;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.guides{
+    background-color:#efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.guides h2{
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.guides p{
+    font-size: 15px;
+    margin-bottom: 13px
+}
+
+.myButton {
+	-moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	-webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #33bdef), color-stop(1, #019ad2));
+	background:-moz-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-webkit-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-o-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-ms-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#33bdef', endColorstr='#019ad2',GradientType=0);
+	background-color:#33bdef;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #019ad2), color-stop(1, #33bdef));
+	background:-moz-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-webkit-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-o-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-ms-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#019ad2', endColorstr='#33bdef',GradientType=0);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:center;
+	top:1px;
+}
